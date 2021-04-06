@@ -2,7 +2,10 @@
 
 Simple application with implemented email services (SendGrid, MailGun).
 
-Application is based on a simple form, that saves the data into the MongoDB.
+Application is based on a simple form, that saves the data into MongoDB.
+
+Application serves for registering new users. After filling all the required fields into the form all the information
+is saved to MongoDB and user receives automatic confirmation email.
 
 ### User data format
 
